@@ -8,7 +8,7 @@ function klickEvent() {
     }
 
     // const fruit=(name)=>{
-    //     alert(name);
+    //     alert(name);     check kar rahe h kon sa function use ho rha h
     // }
 
 
