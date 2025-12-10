@@ -1,5 +1,7 @@
 import Header from "./Header";
 function App(){
+
+  alert("The sum of 2+2 is " + sum());
   return (
     <div>
     
@@ -19,4 +21,9 @@ function Fool(){
 }
 
 
+function sum(){
+  return 2+2;
+}
+
 export default App; 
+// i m making new file header.jsx and moving header component there can see below
