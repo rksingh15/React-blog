@@ -1,12 +1,15 @@
 
+const fruit=(name)=>{
+    alert(name);
+}
 function Zoom (){
 function klickEvent() {
     alert("You clicked me!");
     }
 
-    const fruit=(name)=>{
-        alert(name);
-    }
+    // const fruit=(name)=>{
+    //     alert(name);
+    // }
 
 
 
