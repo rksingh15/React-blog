@@ -1,16 +1,17 @@
-import Header from "./Header";
-import Login,{Profile,Setting,UserKey} from "./UserComponent";  
+// import Header from "./Header";
+// import Login,{Profile,Setting,UserKey} from "./UserComponent";  
+import Task from "./Task";
+
+import Zoom from "./clickEvent";
 
 function App(){
 
   // const data = "Ritik Made this ";
   return (
     <div>
-      <h1> Welcome to ReactJS </h1>
-      <img src="src\assets\react.svg" alt="Random Image"/>
-      <h1>This is JSX DATA</h1>
-      <h1> The sum of 2+2 is {2+2} </h1>
-      <button onClick={()=> alert("Button Clicked")}> Click Me </button>
+<h1>My Task List</h1>
+
+      <Zoom/>
     </div>
   )
 }
