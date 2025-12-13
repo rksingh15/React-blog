@@ -1,6 +1,7 @@
 # React Blog
 
-![React Logo]([[https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg](https://static.vecteezy.com/system/resources/thumbnails/009/992/242/small/3d-energy-ecology-icon-png.png)](https://hexmos.com/freedevtools/svg_icons/express/react-logos.svg))
+![React Logo](https://hexmos.com/freedevtools/svg_icons/express/react-logos.svg)
+
 
 
 
