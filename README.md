@@ -1,7 +1,7 @@
 # React Blog
 
-([<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d5780bac-beb5-471d-913b-9c61f1619189" />](https://hexmos.com/freedevtools/svg_icons/express/react-simple-icons.svg)
-)
+https://static.vecteezy.com/system/resources/thumbnails/009/992/242/small/3d-energy-ecology-icon-png.png
+
 
 
 
