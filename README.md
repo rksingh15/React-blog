@@ -1,6 +1,6 @@
 # React Blog
 
-[![My Awesome React Project Banner]([https://example.com/my-react-banner.png](https://www.vecteezy.com/png/49401766-react-icon-on-white-square-button))](https://my-react-project.com)
+[![My Awesome React Project Banner]([https://example.com/my-react-banner.png](https://www.vecteezy.com/png/49401766-react-icon-on-white-square-button))]([https://my-react-project.com](https://www.vecteezy.com/png/49401766-react-icon-on-white-square-button))
 
 
 A modern, interactive React blog application built with Vite, showcasing various React concepts including components, props, state management, event handling, and more.
