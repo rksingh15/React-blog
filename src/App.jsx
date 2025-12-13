@@ -3,14 +3,22 @@
 // import Task from "./Task";
 // import Zoom from "./clickEvent";
 // import ClickEvent1 from "./clickEventPartTwo";
-import ChangeText from './StateIn';
+// import ChangeText from './StateIn';
+import PropsLearn from "./PropsLearn";
+// import Toggle1 from "./ToggleButton";
 
 function App() {
   // const data = "Ritik Made this ";
+  let hello = {
+    name: "Ritik",
+    age: 21,
+    email: "ritik@gmail.com",
+  };
+
   return (
     <div>
-      <h1>My Task List</h1>
-      <ChangeText/>
+      <h1>My Task List </h1>
+      <PropsLearn user={hello} />
     </div>
   );
 }
