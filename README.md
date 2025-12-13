@@ -1,6 +1,6 @@
 # React Blog
 
-![Alt Text]([<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d5780bac-beb5-471d-913b-9c61f1619189" />](https://hexmos.com/freedevtools/svg_icons/express/react-simple-icons.svg)
+([<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d5780bac-beb5-471d-913b-9c61f1619189" />](https://hexmos.com/freedevtools/svg_icons/express/react-simple-icons.svg)
 )
 
 
