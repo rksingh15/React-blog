@@ -1,6 +1,6 @@
 # React Blog
 
-https://static.vecteezy.com/system/resources/thumbnails/009/992/242/small/3d-energy-ecology-icon-png.png
+(https://static.vecteezy.com/system/resources/thumbnails/009/992/242/small/3d-energy-ecology-icon-png.png)
 
 
 
