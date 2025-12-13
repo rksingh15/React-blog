@@ -1,25 +1,28 @@
 // import Header from "./Header";
-// import Login,{Profile,Setting,UserKey} from "./UserComponent";  
-import Task from "./Task";
+// import Login,{Profile,Setting,UserKey} from "./UserComponent";
+// import Task from "./Task";
+// import Zoom from "./clickEvent";
+// import ClickEvent1 from "./clickEventPartTwo";
+import ChangeText from './StateIn';
 
-import Zoom from "./clickEvent";
-
-function App(){
-
+function App() {
   // const data = "Ritik Made this ";
   return (
     <div>
-<h1>My Task List</h1>
-
-      <Zoom/>
+      <h1>My Task List</h1>
+      <ChangeText/>
     </div>
-  )
+  );
 }
-
-
-
-
-
+// function App() {
+//   // const data = "Ritik Made this ";
+//   return (
+//     <div>
+//       <h1>My Task List</h1>
+//       <ClickEvent1/>
+//     </div>
+//   );
+// }
 
 /*
 function App(){
@@ -54,4 +57,4 @@ function sum(){
 
   */
 // i m making new file header.jsx and moving header component there can see below
-export default App; 
+export default App;
